@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MUIKAKAROT
+- 👋 Hi, I’m @KUMAR_INDRAJEET_SHARMA
 - 👀 I’m interested in ... DATA ANALYSIS/SCIENCE
 - 🌱 I’m currently learning ... coding(c++,c,PYTHON,SQL,HTML,CSS)MS-EXCEL,MS-WORD,TABLEAU,BIGQUERY,GOOGLE VISUAL-STUDIOS,NON-TECH(ui/ux,FIGMA)
 - 💞️ I’m looking to collaborate on ... DATA ANAYLIS/SCIENCE, (ui/ux)
